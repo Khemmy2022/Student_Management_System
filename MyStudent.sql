@@ -13,3 +13,5 @@ values ("mike", "ss1"),
 ("ada", "jss2");
 
 select * from studentTable;
+Select * from studentTable 
+where class = 'ss1';
